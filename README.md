@@ -5,7 +5,8 @@ import io
 
 import random
 
-import string 
+import string
+
 import warnings
 import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
